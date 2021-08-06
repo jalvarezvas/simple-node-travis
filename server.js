@@ -8,7 +8,7 @@ async function main() {
   while(true) {
     // console.log("Microservices rock!");
 	console.log(`${FAVORITE_INSTRUCTOR} rocks!`);
-    await sleep(5000);
+    await sleep(5000); 
   }
 }
 
